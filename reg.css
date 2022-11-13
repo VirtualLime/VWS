@@ -1,0 +1,94 @@
+*{
+    font-style: Arial;
+}
+.entire_page{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    background-color: #FAF7EE;
+}
+.reg-header{
+    text-align: center;
+    border: 2px solid black;
+    background-color: #FCFCFC;
+}
+
+#title{
+    color: black;
+    font-size: 60px;
+}
+.main_body{
+    position: absolute;
+    top: 220px;
+    left: 37%;
+    height: 50%;
+    width: 25%;
+    background-color: #FCFCFC;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+#username_form_label{
+    padding-left: 8%;
+}
+#password_form_label{
+    padding: auto;
+}
+.username_form{
+    text-align: left;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+.password_form{
+    text-align: left;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+input[type=text]{
+    width: 80%;
+    margin: 7%;
+    padding: 12px 12px;
+    background-color: #FCFCFC;
+    color: black;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+input[type=password]{
+    width: 80%;
+    padding: 12px 12px;
+    background-color: #FCFCFC;
+    color: black;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+input[type=text]:hover {
+    background-color: #EAE9E8;
+    border: 3px solid black;
+}
+
+input[type=password]:hover {
+    background-color: #EAE9E8;
+    border: 3px solid black;
+}
+
+#password_input{
+    border: 5px solid red;
+}
+.password_form{
+    text-align: left;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+#password_form_label{
+    padding-right: 4px;
+}

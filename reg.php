@@ -4,7 +4,7 @@
     <meta charset="UTF-8"/>
     <meta name="description" content="Virtual Wellness System"/>
     <meta name="robots" content="index, follow"/>
-    <link rel="stylesheet" type="text/css" href="main_style.css"/>
+    <link rel="stylesheet" type="text/css" href="reg.css"/>
     <title>Virtual Wellness System</title>
 </head>
 
